@@ -1,0 +1,72 @@
+table {
+    border: 1px solid;
+    color: black;
+    width: 776px;
+    height: 36px;
+    background-color: #000033;
+    }
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 30px;
+        color: #280;
+    }
+    #first {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        color: #280;
+        background-color: #FFF;
+    }
+    #second {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        color: #280;
+        background-color: #FFF;
+    }
+    #third {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 15px;
+        background-color: #FFF;
+    }
+    #fourth {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 15px;
+        background-color: #FFF;
+    }
+    #fifth {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        background-color: #FFF;
+    }
+    #sixth {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        background-color: #FFF;
+    }
+#seventh {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    background-color: #CFB;
+}    
+a:link {
+    color: #0000FF;
+}
+a:visited {
+    color: #DDC71A;
+}
+a:active {
+    color: #AC0B44
+}
+a:hover {
+    color: #FF0000;
+    font-weight: bold;
+}
